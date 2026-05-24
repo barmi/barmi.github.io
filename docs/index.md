@@ -15,7 +15,7 @@ myst:
 :caption: 둘러보기
 
 about
-projects
+projects/index
 posts/index
 ```
 
@@ -29,6 +29,13 @@ posts/index
 :link-type: doc
 
 저에 대한 짧은 소개와 관심사
+:::
+
+:::{grid-item-card} 🗂️ 프로젝트
+:link: projects/index
+:link-type: doc
+
+분야별 저장소 목록
 :::
 
 :::{grid-item-card} ✍️ 글
