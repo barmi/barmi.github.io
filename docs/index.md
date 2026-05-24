@@ -15,6 +15,7 @@ myst:
 :caption: 둘러보기
 
 about
+projects
 posts/index
 ```
 
