@@ -213,6 +213,3 @@ three.js + cannon-es 기반 3D 8볼 풀. 스핀 위젯, ball-in-hand, 표준 8�
 | [cs231n](https://github.com/barmi/cs231n) | Stanford CS231n (딥러닝) | 2018–22 |
 | [pysc2-examples](https://github.com/barmi/pysc2-examples) + [commandcenter](https://github.com/barmi/commandcenter) + [MinervaSc2](https://github.com/barmi/MinervaSc2) | StarCraft II AI/RL | 2017-09 |
 
-
----
-
