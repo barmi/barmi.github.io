@@ -1,0 +1,16 @@
+[project]
+name = "barmi-homepage"
+version = "0.1.0"
+description = "Personal homepage of barmi (https://barmi.github.io)"
+requires-python = ">=3.10"
+dependencies = [
+    "sphinx>=7.3",
+    "furo>=2024.8.6",
+    "myst-parser[linkify]>=3.0",
+    "sphinx-copybutton>=0.5.2",
+    "sphinx-design>=0.6.1",
+    "sphinxext-opengraph>=0.9.1",
+]
+
+[tool.uv]
+package = false
